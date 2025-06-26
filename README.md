@@ -8,7 +8,7 @@ Bu proje, React Native ve Redux Toolkit kullanılarak geliştirilmiş bir **saya
 - 🔽 **Azaltma**: Sayaç değeri 0’a kadar azalır. Negatif olamaz.
 - 🔁 **Sıfırlama**: Sayaç değeri sıfırlanır.
 - **Tema Değiştirme**: Kullanıcı light/dark temalar arasında geçiş yapabilir.
-- **Redux Toolkit** ile merkezi state yönetimi.
+- **Redux** ile merkezi state yönetimi.
 
 # Kullanılan Teknolojiler
 
@@ -19,4 +19,5 @@ Bu proje, React Native ve Redux Toolkit kullanılarak geliştirilmiş bir **saya
 # GIF
 
 ![](src/assets/ekran.gif)
+
 # sayac_reactNative
