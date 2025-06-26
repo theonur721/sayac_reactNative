@@ -1,6 +1,6 @@
 # Counter/Sayac App
 
-Bu proje, React Native ve Redux Toolkit kullanılarak geliştirilmiş bir **sayaç uygulamasıdır**. Kullanıcılar sayacı arttırabilir, azaltabilir ya da sıfırlayabilir. Uygulama ayrıca kullanıcı isteğine göre **karanlık (dark) ve aydınlık (light)** tema geçişini de destekler.
+Bu proje, React Native ve Redux kullanılarak geliştirilmiş bir **sayaç uygulamasıdır**. Kullanıcılar sayacı arttırabilir, azaltabilir ya da sıfırlayabilir. Uygulama ayrıca kullanıcı isteğine göre **karanlık (dark) ve aydınlık (light)** tema geçişini de destekler.
 
 ## 🚀 Özellikler
 
